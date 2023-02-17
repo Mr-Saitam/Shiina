@@ -1,0 +1,6 @@
+{
+    "generateImage": {
+        "creatingImage": "Creating a unique image for you...",
+        "err400": "Unfortunately, that type of content includes inappropriate images and we cannot provide them. Please select another type of content to generate your image."
+    }
+}
